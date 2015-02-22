@@ -1,4 +1,3 @@
-console.log('hellelekfjsadkljf;a');
 $('button[name="comment_and_close"]').click(function(event){
     catchPokemon();
 });
